@@ -1,16 +1,19 @@
-## Hi there 👋
+# 💫 About Me:
+# 👋 Hi, I'm Anupam Kumar<br><br>### 🧪 SDET | QA Automation Engineer | Web, API & Performance Testing<br><br>I am a **Software Development Engineer in Test (SDET)** with experience across **UI automation, API testing, mobile testing, and performance testing**.  <br>I focus on building **stable, maintainable automation frameworks** and ensuring quality across the testing pyramid.<br><br>---<br><br>## 🔍 What I Do<br><br>- Build and maintain **automation frameworks** for web, API, and mobile<br>- Automate **critical business flows** and backend services<br>- Perform **API, integration, and regression testing**<br>- Execute **performance and load testing** for system reliability<br>- Debug test failures with a **root-cause driven approach**<br>- Collaborate with developers and product teams for quality ownership<br><br>---<br><br>## 🛠️ Technical Skills<br><br>### Automation & Testing<br>- **Cypress** – E2E & API automation<br>- **Selenium WebDriver (Java)** – Web UI automation<br>- **Appium** – Mobile automation (Android / iOS)<br>- **JavaScript / TypeScript**<br>- **Java**<br>- REST API testing & validation<br>- Custom test utilities and commands<br>- Data-driven & environment-based testing<br><br>### Performance & Load Testing<br>- **Apache JMeter** – Load, stress, and endurance testing<br>- **k6** – Modern performance testing with JavaScript<br>- Test result analysis & bottleneck identification<br><br>### Test Design & Quality Practices<br>- Functional, regression, sanity, and smoke testing<br>- API contract & response validation<br>- Payment, cart, and order flow testing<br>- Negative and edge-case testing<br>- Flaky test analysis and stabilization<br><br>---<br><br>## 🧰 Tools & Platforms<br><br>- Git & GitHub<br>- CI/CD pipeline integration<br>- VS Code, IntelliJ IDEA<br>- JSON, REST, HTTP<br>- Chrome DevTools (Network & Console debugging)<br>- Test reporting & logs analysis<br><br>---<br><br>## 📌 Testing Principles I Follow<br><br>- **Test the behavior, not just the status code**<br>- Keep automation **readable and maintainable**<br>- Avoid false positives and flaky tests<br>- Prefer **clear assertions over excessive checks**<br>- Treat automation code as **production-quality code**<br><br>---<br><br>## 📂 What You'll Find in My Repositories<br><br>- Cypress & Selenium automation examples<br>- API testing patterns and validations<br>- Mobile automation basics with Appium<br>- Performance testing scripts (JMeter & k6)<br>- Reusable utilities and best practices for SDETs<br><br>---<br><br>## 🔗 Connect With Me<br><br>- **LinkedIn:** [Anupam Kumar](https://www.linkedin.com/in/anupam-kumar-inq/)<br>- **GitHub:** You’re already here 🙂<br><br>---<br><br>## 📈 Continuous Learning<br><br>Currently focused on:<br>- Improving test architecture & reusability<br>- Advanced Cypress & Selenium patterns<br>- Better API validation strategies<br>- Scalable performance testing approaches<br><br>---<br><br>⭐ _If you find something useful here, feel free to star or fork the repository._<br>
 
-<!--
-**AnupamKr94/AnupamKr94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mail.anupamkr@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AnupamKr94&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AnupamKr94&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnupamKr94&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AnupamKr94&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=AnupamKr94&icon=0&color=0)](https://visitcount.itsvg.in)
